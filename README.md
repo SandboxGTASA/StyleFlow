@@ -1,3 +1,6 @@
+https://www.facebook.com/zubairahmed.a.i/videos/10157757581506517
+https://www.youtube.com/watch?v=Lt4Z5oOAeEY&feature=youtu.be&fbclid=IwAR2ThW4MjLCZMY5GrAtUiFz3SHzCfUfTpL7XgWch1RlyLsf1vH1-V8FXpyM&ab_channel=TwoMinutePapers
+
 # StyleFlow: Attribute-conditioned Exploration of StyleGAN-Generated Images using Conditional Continuous Normalizing Flows
 
 ![Python 3.7](https://img.shields.io/badge/Python-3.7-green.svg?style=plastic)
